@@ -1,7 +1,4 @@
 #include "player.h"
-#include "chunck_handler.h"
-
-
 
 int main()
 {
